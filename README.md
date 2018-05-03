@@ -25,6 +25,7 @@ One framework. Mobile & desktop.
 ### Application Frameworks (Server-side)
 
 * [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular.
+* [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express.
 
 ### 3D Games
 
