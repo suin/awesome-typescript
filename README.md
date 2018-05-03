@@ -46,6 +46,7 @@ One framework. Mobile & desktop.
 ### GraphQL
 
 * [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+* [graphql-cli](https://github.com/graphql-cli/graphql-cli) - Command line tool for common GraphQL development workflows.
 
 ### Node
 
