@@ -65,3 +65,7 @@ One framework. Mobile & desktop.
 ### Google APIs
 
 * [googleapis](https://github.com/google/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs.
+
+### Google Apps Script
+
+* [clasp](https://github.com/google/clasp) - Develop Apps Script projects locally.
