@@ -44,6 +44,7 @@ One framework. Mobile & desktop.
 
 * [typed-rest-client](https://github.com/Microsoft/typed-rest-client) - Node Rest and Http Clients with typings for use with TypeScript.
 * [restyped](https://github.com/rawrmaan/restyped) - End-to-end typing for REST APIs with TypeScript
+* [premiere](https://github.com/pedsmoreira/premiere) - A simple way to consume APIs with Javascript.
 
 ### GraphQL
 
