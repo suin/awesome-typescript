@@ -45,6 +45,7 @@ One framework. Mobile & desktop.
 * [typed-rest-client](https://github.com/Microsoft/typed-rest-client) - Node Rest and Http Clients with typings for use with TypeScript.
 * [restyped](https://github.com/rawrmaan/restyped) - End-to-end typing for REST APIs with TypeScript
 * [premiere](https://github.com/pedsmoreira/premiere) - A simple way to consume APIs with Javascript.
+* [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ### GraphQL
 
