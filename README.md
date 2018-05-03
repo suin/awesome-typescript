@@ -51,6 +51,10 @@ One framework. Mobile & desktop.
 * [apollo-client](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 * [graphql-cli](https://github.com/graphql-cli/graphql-cli) - Command line tool for common GraphQL development workflows.
 
+### JSON
+
+* [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources.
+
 ### Node
 
 * [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js.
