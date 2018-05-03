@@ -15,6 +15,7 @@ todo
 * [cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line interface.
 * [clime](https://github.com/vilic/clime) - The command-line interface framework for TypeScript.
 * [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
+* [nexe](https://github.com/nexe/nexe) - create a single executable out of your node.js apps.
 
 ### Application Frameworks (Client-side)
 
