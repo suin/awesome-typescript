@@ -72,6 +72,7 @@ One framework. Mobile & desktop.
 ### Node Modules
 
 * [typac](https://github.com/ewgenius/typac) - Install npm packages along with corresponding typings
+* [js-green-licenses](https://github.com/google/js-green-licenses) - JavaScript package.json License Checker.
 
 ### Automation
 
