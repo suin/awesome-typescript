@@ -60,6 +60,10 @@ One framework. Mobile & desktop.
 
 * [inversify](https://github.com/inversify/InversifyJS/) - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
+### Node Modules
+
+* [typac](https://github.com/ewgenius/typac) - Install npm packages along with corresponding typings
+
 ### Automation
 
 * [chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
