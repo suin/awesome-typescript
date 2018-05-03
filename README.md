@@ -71,3 +71,7 @@ One framework. Mobile & desktop.
 ### Google Apps Script
 
 * [clasp](https://github.com/google/clasp) - Develop Apps Script projects locally.
+
+### YouTube
+
+* [pully](https://github.com/JimmyBoh/pully) - A simple CLI and library for downloading high quality YouTube videos!
