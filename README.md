@@ -54,6 +54,7 @@ One framework. Mobile & desktop.
 ### JSON
 
 * [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources.
+* [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 
 ### Node
 
