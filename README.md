@@ -27,6 +27,10 @@ One framework. Mobile & desktop.
 * [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular.
 * [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express.
 
+### Migrating JavaScript
+
+* [dtsmake](https://github.com/ConquestArrow/dtsmake) - TypeScript 's type definition file (*.d.ts files) generator tool from JavaScript files.
+
 ### 3D Games
 
 * [babylonjs](https://github.com/BabylonJS/Babylon.js) - a complete JavaScript framework for building 3D games with HTML 5 and WebGL.
