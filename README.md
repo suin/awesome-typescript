@@ -71,6 +71,7 @@ One framework. Mobile & desktop.
 
 ### Dependency Injection
 
+* [InferDI](https://github.com/inferdi/inferdi) - Type-safe, decorator-free dependency injection container for modern TypeScript with framework adapters.
 * [inversify](https://github.com/inversify/InversifyJS/) - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
 ### Node Modules
