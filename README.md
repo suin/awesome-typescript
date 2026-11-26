@@ -39,6 +39,7 @@ One framework. Mobile & desktop.
 
 * [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert".
 * [flatpickr](https://github.com/flatpickr/flatpickr) - lightweight and powerful datetimepicker with no dependencies.
+* [videojs-story-view](https://github.com/hicay/videojs-story-view) - Instagram-style video and image stories as a dependency-free custom element, with an optional Video.js plugin.
 
 ### Database
 
